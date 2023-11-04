@@ -1,0 +1,12 @@
+
+
+Insight 3: Correlation for Numeric Columns
+
+                   meta_score  ...  meta_score_binned
+meta_score           1.000000  ...           0.867206
+user_review          0.526260  ...           0.454095
+pca_1               -0.999985  ...          -0.867178
+pca_2                0.005512  ...           0.007463
+meta_score_binned    0.867206  ...           1.000000
+
+[5 rows x 5 columns]
